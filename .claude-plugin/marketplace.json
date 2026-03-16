@@ -1,0 +1,13 @@
+{
+  "name": "junho-utils",
+  "owner": {
+    "name": "박준호"
+  },
+  "plugins": [
+    {
+      "name": "telegram-notification-plugin",
+      "source": "./plugins/telegram-notification-plugin",
+      "description": "텔레그램 클로드 코드 알림 플러그인"
+    }
+  ]
+}
