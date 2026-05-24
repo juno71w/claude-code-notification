@@ -1,0 +1,5 @@
+{
+  "name": "audit-deliverables-plugin",
+  "description": "[감리용] 설계단계 감리 산출물 작성 보조 스킬 모음 — OpenAPI 채번 JSON → 중분류별 인터페이스 설계서 xlsx, DBML → 표준 양식 HWPX 데이터베이스 설계서 자동/반자동 작성",
+  "version": "1.1.0"
+}

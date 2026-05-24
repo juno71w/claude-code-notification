@@ -8,6 +8,16 @@
       "name": "telegram-notification-plugin",
       "source": "./plugins/telegram-notification-plugin",
       "description": "텔레그램 클로드 코드 알림 플러그인"
+    },
+    {
+      "name": "audit-deliverables-plugin",
+      "source": "./plugins/audit-deliverables-plugin",
+      "description": "[감리용] 설계단계 감리 산출물 작성 보조 스킬 모음 — OpenAPI 채번 JSON → 중분류별 인터페이스 설계서 xlsx, DBML → 표준 양식 HWPX 데이터베이스 설계서 자동/반자동 작성"
+    },
+    {
+      "name": "mock-impl-plugin",
+      "source": "./plugins/mock-impl-plugin",
+      "description": "Spring + Kotlin 도메인 API 의 Mock 단계(DTO/구현/확장)와 실제 구현 파이프라인(schema → iface → red → green) 을 오케스트레이션 스킬과 함께 묶은 API 작업 흐름 플러그인"
     }
   ]
 }

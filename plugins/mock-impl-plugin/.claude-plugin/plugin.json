@@ -1,0 +1,5 @@
+{
+  "name": "mock-impl-plugin",
+  "description": "Spring + Kotlin 도메인 API 의 Mock 단계(DTO/구현/확장)와 실제 구현 파이프라인(schema → iface → red → green) 을 오케스트레이션 스킬과 함께 묶어 제공하는 API 작업 흐름 플러그인",
+  "version": "1.0.0"
+}
